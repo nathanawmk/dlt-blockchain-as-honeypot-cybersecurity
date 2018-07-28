@@ -1,2 +1,2 @@
 # dlt-blockchain-as-honeypot-cybersecurity
-The distributed nature of blockchain / distributed ledger technologies (DLT) lends itself to the use for honeypots in cybersecurity efforts. If leveraged properly, DLTs/blockchain has the capabilities to transform and advance cybersecurity efforts. 
+The distributed nature of blockchain / distributed ledger technologies (DLTs) lends itself to the use as honeypots for cybersecurity efforts. If leveraged properly, DLTs/blockchain has multiple unique attributes (immutability, distributed logic via smart contract) thereby the very capabilities to transform and advance cybersecurity efforts in significant and transformative ways.
